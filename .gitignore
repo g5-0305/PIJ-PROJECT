@@ -1,0 +1,14 @@
+# Compiled Java files
+out/
+*.class
+
+# macOS system files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Private configuration
+.env
+config.properties
